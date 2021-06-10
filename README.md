@@ -4,7 +4,7 @@
 Autor: Laura Torres Toro
 Profesión Contador Público - Esp. Auditoria Forense - Esp. Analítica estratégica de datos (En curso) 
 
-<img src='https://github.com/LauraTorres717/NLP/blob/main/imgportafolio1.jpg'>
+<img src='https://raw.githubusercontent.com/LauraTorres717/NLP/main/imgportafolio1.jpg'>
   
 Mi nombre preferido es Laura y la materia que más disfruté este semestre fue NLP con Vivi!!!
 Acá encontrarás los proyectos que desarrollé durante el semestre 2021-1 en la materia "Procesamiento de Lenguaje Natural" como repaso de todas las sesiones.
@@ -152,5 +152,4 @@ Importancia del uso de NLP en redes sociales: Detección de temas tendencia, Min
 
 
 
-<img src='https://github.com/LauraTorres717/NLP/blob/main/imgportafolio2.jpg'>
-              
+<img src='https://raw.githubusercontent.com/LauraTorres717/NLP/main/imgportafolio2.jpg'>
